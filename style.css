@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(https://raw.githubusercontent.com/clarusway/clarusway-full-stack-tr-13-22/main/html-css/projects/001-survey-form/background_image.jpg?token=GHSAT0AAAAAAB3S7HH6DDIYPYJL3355YWRSY52XNIQ);
+    background-image: url(./bcg-img/background_image.jpg);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
 }
